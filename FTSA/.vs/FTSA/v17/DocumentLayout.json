@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00DC9AF2-E809-4C30-939B-87F64A80E84A}|DataAccess\\DataAccess.csproj|c:\\users\\boss\\desktop\\mock\\ftsa\\dataaccess\\service\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00DC9AF2-E809-4C30-939B-87F64A80E84A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\service\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00DC9AF2-E809-4C30-939B-87F64A80E84A}|DataAccess\\DataAccess.csproj|c:\\users\\boss\\desktop\\mock\\ftsa\\dataaccess\\repos\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DC9AF2-E809-4C30-939B-87F64A80E84A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repos\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00DC9AF2-E809-4C30-939B-87F64A80E84A}|DataAccess\\DataAccess.csproj|c:\\users\\boss\\desktop\\mock\\ftsa\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{00DC9AF2-E809-4C30-939B-87F64A80E84A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B3B3DA5-D394-45F5-A5D7-0236C49A6CA2}|FTSA_Application\\FTSA_Application.csproj|c:\\users\\boss\\desktop\\mock\\ftsa\\ftsa_application\\ftsa_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6B3B3DA5-D394-45F5-A5D7-0236C49A6CA2}|FTSA_Application\\FTSA_Application.csproj|solutionrelative:ftsa_application\\ftsa_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{00DC9AF2-E809-4C30-939B-87F64A80E84A}|DataAccess\\DataAccess.csproj|c:\\users\\boss\\desktop\\mock\\ftsa\\dataaccess\\repos\\itutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DC9AF2-E809-4C30-939B-87F64A80E84A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repos\\itutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,47 +81,29 @@
               "Name": "ST:20:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\DataAccess\\Repos\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repos\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\DataAccess\\Repos\\IStudentRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repos\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:34:30.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DataAccess.csproj",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\DataAccess\\DataAccess.csproj",
-              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
-              "ToolTip": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\DataAccess\\DataAccess.csproj",
-              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-03T11:03:19.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FTSA_Application.csproj",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\FTSA_Application\\FTSA_Application.csproj",
-              "RelativeDocumentMoniker": "FTSA_Application\\FTSA_Application.csproj",
-              "ToolTip": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\FTSA_Application\\FTSA_Application.csproj",
-              "RelativeToolTip": "FTSA_Application\\FTSA_Application.csproj",
-              "ViewState": "AgIAAAgAAADQJKEqc7QjwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-03T10:55:36.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\DataAccess\\Service\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Service\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\DataAccess\\Service\\UserRepository.cs",
-              "RelativeToolTip": "DataAccess\\Service\\UserRepository.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAADwvyIAAABIAAAAAAAAAA==",
+              "Title": "ITutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\DataAccess\\Repos\\ITutorRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repos\\ITutorRepository.cs",
+              "ToolTip": "C:\\Users\\BOSS\\Desktop\\MOCK\\FTSA\\DataAccess\\Repos\\ITutorRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repos\\ITutorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T11:31:21.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T12:22:07.422Z"
             }
           ]
         }
